@@ -1,0 +1,48 @@
+.center{
+    width: 351px;
+    height: 113px;
+    margin: auto;
+}
+.centerbox{
+    text-align:center;
+}
+.table{
+    border: 0px;
+    width: 90%;
+    margin: auto;
+    margin-block-end: 1em;
+    margin-top: 0em;
+}
+
+.secondbox {
+    display:flex;
+}
+
+.sbox1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    height: 115px;
+    
+}
+.sbox2 {
+    background-color: #70CCC2;
+    width: 26%;
+    height: 115px;
+    font-size: small;
+}
+
+.sbox3 {
+    font-size: small;
+    width: 37%;
+    background-color:#62B3AA;
+    height: 115px;
+}
+.center3{
+    padding-top: 10px;
+}
+.son{
+margin-top: 20px;
+}
